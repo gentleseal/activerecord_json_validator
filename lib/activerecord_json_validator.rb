@@ -1,6 +1,7 @@
 # frozen_string_literal: true
 
-require 'active_record'
+require 'active_model'
+require 'active_support'
 require 'json-schema'
 
 require 'active_record/json_validator/version'
